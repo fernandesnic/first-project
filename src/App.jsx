@@ -8,6 +8,8 @@ import article3Img from "./assets/images/article3.png";
 
 // Componente em classé é uma classe que herda a classe Component do React, e retorna HTML dentro do método render.
 
+// Componente funcional é uma função que retorna HTML
+
 class App extends React.Component {
   // Método responsável por renderizar o conteudo HTML do nosso componentes
   render() {
